@@ -1,4 +1,4 @@
-iOS Good Practices
+iOS Good Practices (한글 번역)
 ==================
 
 _Just like software, this document will rot unless we take care of it. We encourage everyone to help us on that – just open an issue or send a pull request!_
